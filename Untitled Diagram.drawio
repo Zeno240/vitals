@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T15:56:27.145Z" agent="5.0 (Macintosh)" etag="iFFVV2zWXrucgUHB6NXX" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T16:47:56.922Z" agent="5.0 (Macintosh)" etag="pkur6iZ-S69bp2rA1h8v" version="15.3.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="872" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="kpfw5lPTPRRCuR1Y69gD-5" value="+ &lt;&lt;new&gt;&gt; TechBook (id : int, author : String, code : Boolean) &#xa;+ getAuthor() String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kpfw5lPTPRRCuR1Y69gD-2">
           <mxGeometry y="60" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kpfw5lPTPRRCuR1Y69gD-10" value="techbook e = new tech" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="380" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
